@@ -185,8 +185,8 @@
       <multiple>s.vv.</multiple>
     </term>
     <term name="verse" form="short">
-      <single>v</single>
-      <multiple>v</multiple>
+      <single></single>
+      <multiple></multiple>
     </term>
     <term name="volume" form="short">
       <single>roč</single>
